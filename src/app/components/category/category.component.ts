@@ -41,5 +41,4 @@ export class CategoryComponent implements OnInit {
       return "list-group-item"
     }
   }
-
 }
